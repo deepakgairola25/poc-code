@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Apple",
+		"discountType": "NONE",
+		"price": 2.00
+	},
+	{
+		"name": "Banana",
+		"discountType": "NONE",
+		"price": 3.00
+	},
+	{
+		"name": "Melon",
+		"discountType": "ONE4ONE",
+		"price": 0.50
+	},
+	{
+		"name": "Melon",
+		"discountType": "ONE4ONE",
+		"price": 0.50
+	},
+	{
+		"name": "Melon",
+		"discountType": "ONE4ONE",
+		"price": 0.50
+	},
+	{
+		"name": "Melon",
+		"discountType": "ONE4ONE",
+		"price": 0.50
+	},
+	{
+		"name": "Limes",
+		"discountType": "PROMOTIONAL",
+		"price": 2.00
+	},
+	{
+		"name": "Limes",
+		"discountType": "PROMOTIONAL",
+		"price": 2.00
+	},
+	{
+		"name": "Limes",
+		"discountType": "PROMOTIONAL",
+		"price": 2.00
+	},
+	{
+		"name": "Limes",
+		"discountType": "PROMOTIONAL",
+		"price": 2.00
+	}
+]
